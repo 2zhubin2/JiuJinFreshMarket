@@ -1,2 +1,3 @@
 # JiuJinFreshMarket
 “JiuJinFreshMarket”technical support
+“JiuJinFreshMarket” is a special app for selling fresh products. Its main function is to sell fresh products. In “JiuJinFreshMarket”, a large number of fresh products are pushed, and the categories of fruits, vegetables, seafood, condiments and grains are made, so that users can quickly find the products they need. Our design is very user-friendly, users can directly click on the goods to buy, you can also add goods to the shopping cart batch operation, convenient and fast. We will also push some excellent food articles for users to read, so that users can understand the wonderful food practices…For any comments and suggestions, please contact us:“JiuJinFreshMarket” official email:edzxiusdlzwuy@hotmail.com
